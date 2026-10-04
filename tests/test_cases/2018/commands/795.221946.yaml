@@ -1,0 +1,17 @@
+command_id: '795.221946'
+test_cases:
+- expected_values:
+    VOLVO_HALDEX_CURRENT_795: 649
+  response: 1EC70E80056219460289
+- expected_values:
+    VOLVO_HALDEX_CURRENT_795: 673
+  response: 1EC70E800562194602A1
+- expected_values:
+    VOLVO_HALDEX_CURRENT_795: 722
+  response: 1EC70E800562194602D2
+- expected_values:
+    VOLVO_HALDEX_CURRENT_795: 1116
+  response: 1EC70E8005621946045C
+- expected_values:
+    VOLVO_HALDEX_CURRENT_795: 1337
+  response: 1EC70E80056219460539
