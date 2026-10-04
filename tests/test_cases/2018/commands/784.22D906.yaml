@@ -1,0 +1,7 @@
+command_id: 784.22D906
+test_cases:
+- expected_values:
+    VOLVO_DISPLAY_T_MS_CAN: 38.4
+  response: |-
+    1F002E80100C62D9060180A6
+    1F002E802111BA4CCB07A300

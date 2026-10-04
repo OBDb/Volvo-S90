@@ -1,0 +1,11 @@
+command_id: 7E1.22DA47
+test_cases:
+- expected_values:
+    VOLVO_GEAR_RAT_EXPECTED: 1.95
+  response: 1EC64E800562DA47079E
+- expected_values:
+    VOLVO_GEAR_RAT_EXPECTED: 3.029
+  response: 1EC64E800562DA470BD5
+- expected_values:
+    VOLVO_GEAR_RAT_EXPECTED: 5.25
+  response: 1EC64E800562DA471482

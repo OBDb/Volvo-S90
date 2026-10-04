@@ -1,0 +1,23 @@
+command_id: '726.224090'
+test_cases:
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: -11.6375
+  response: 1F402E80056240901F41
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: -8.325
+  response: 1F402E80056240901F76
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: -1.95
+  response: 1F402E80056240901FDC
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: 0.55
+  response: 1F402E80056240902004
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: 7.4875
+  response: 1F402E80056240902073
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: 8.55
+  response: 1F402E80056240902084
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: 10.675
+  response: 1F402E800562409020A6
