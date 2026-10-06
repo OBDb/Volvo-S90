@@ -1,0 +1,23 @@
+command_id: '726.224025'
+test_cases:
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -758
+  response: 1F402E800562402501E4
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -757.5
+  response: 1F402E800562402501E5
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -756
+  response: 1F402E800562402501E8
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -755.5
+  response: 1F402E800562402501E9
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -755
+  response: 1F402E800562402501EA
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -754.5
+  response: 1F402E800562402501EB
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -754
+  response: 1F402E800562402501EC
