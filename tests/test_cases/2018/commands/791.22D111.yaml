@@ -1,0 +1,8 @@
+command_id: 791.22D111
+test_cases:
+- expected_values:
+    VOLVO_V_SUP_MS_CAN: 12.2
+  response: 1EC70E800462D1117A
+- expected_values:
+    VOLVO_V_SUP_MS_CAN: 14.5
+  response: 1EC70E800462D11191
