@@ -1,0 +1,8 @@
+command_id: 726.22417E
+test_cases:
+- expected_values:
+    VOLVO_SECONDARY_BAT_V: 12.4
+  response: 1F402E800462417E7C
+- expected_values:
+    VOLVO_SECONDARY_BAT_V: 14.6
+  response: 1F402E800462417E92
