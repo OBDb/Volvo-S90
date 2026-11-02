@@ -1,0 +1,11 @@
+command_id: D01A.1F422E80.229843|ta=11,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_INTERIOR_T: 0
+  response: 1F422E80056298434B00
+- expected_values:
+    S90_INTERIOR_T: 19.2
+  response: 1F422E800562984363FC
+- expected_values:
+    S90_INTERIOR_T: 35.2
+  response: 1F422E80056298437708

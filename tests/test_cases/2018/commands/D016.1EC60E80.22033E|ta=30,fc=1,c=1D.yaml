@@ -1,0 +1,11 @@
+command_id: D016.1EC60E80.22033E|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_BOOST_AIR_P_AFTER: 125.45
+  response: 1EC60E800562033E3101
+- expected_values:
+    S90_BOOST_AIR_P_AFTER: 130.51
+  response: 1EC60E800562033E32FB
+- expected_values:
+    S90_BOOST_AIR_P_AFTER: 264.24
+  response: 1EC60E800562033E6738

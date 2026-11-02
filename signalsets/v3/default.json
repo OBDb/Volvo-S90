@@ -501,7 +501,7 @@
   "signals": [
     {"id": "S90_FUEL_HIGH_P", "path": "Fuel", "fmt": { "len": 16, "max": 32.76, "div": 2000, "unit": "unknown" }, "name": "Fuel high pressure"}
   ]},
-{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "EE57"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "dbg": true, "cmd": {"22": "EE57"}, "freq": 1,
   "signals": [
     {"id": "S90_FUEL_LOW_P", "path": "Fuel", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "kilopascal" }, "name": "Fuel low pressure"}
   ]},
@@ -550,7 +550,7 @@
   "signals": [
     {"id": "S90_ATF_T_D016", "path": "Transmission", "fmt": { "len": 16, "max": 32767000, "min": -32768000, "mul": 1000, "sign": true, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "D90D"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "D90D"}, "freq": 5,
   "signals": [
     {"id": "S90_ATF_T_D016_D016", "path": "Transmission", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
