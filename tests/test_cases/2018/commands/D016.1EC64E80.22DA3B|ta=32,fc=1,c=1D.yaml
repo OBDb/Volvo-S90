@@ -1,0 +1,8 @@
+command_id: D016.1EC64E80.22DA3B|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_ATF_T: 20
+  response: 1EC64E800562DA3B0014
+- expected_values:
+    S90_ATF_T: 97
+  response: 1EC64E800562DA3B0061

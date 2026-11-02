@@ -1,0 +1,17 @@
+command_id: D01A.1F402E80.224112|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_AUXILIARY_BAT: -1
+  response: 1F402E80056241127E80
+- expected_values:
+    S90_AUXILIARY_BAT: 0
+  response: 1F402E80056241127F00
+- expected_values:
+    S90_AUXILIARY_BAT: 0
+  response: 1F402E80056241127F80
+- expected_values:
+    S90_AUXILIARY_BAT: 1
+  response: 1F402E80056241128000
+- expected_values:
+    S90_AUXILIARY_BAT: 3
+  response: 1F402E80056241128200

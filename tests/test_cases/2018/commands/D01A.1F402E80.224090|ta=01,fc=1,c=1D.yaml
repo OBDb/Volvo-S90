@@ -1,0 +1,14 @@
+command_id: D01A.1F402E80.224090|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_BAT_CURRENT: -39.75
+  response: 1F402E80056240901D84
+- expected_values:
+    S90_BAT_CURRENT: -0.125
+  response: 1F402E80056240901FFE
+- expected_values:
+    S90_BAT_CURRENT: 0
+  response: 1F402E80056240902000
+- expected_values:
+    S90_BAT_CURRENT: 50.5625
+  response: 1F402E80056240902329

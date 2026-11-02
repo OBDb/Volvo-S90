@@ -1,0 +1,7 @@
+command_id: D018.1F002E80.22D906|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_ODO_LAST_SERVICE: 98470
+  response: |-
+    1F002E80100C62D9060180A6
+    1F002E802111BA4CCB07A300
