@@ -1,0 +1,14 @@
+command_id: D016.1EC70E80.221946|ta=38,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_MODULE_CURRENT: 10
+  response: 1EC70E8005621946000A
+- expected_values:
+    S90_MODULE_CURRENT: 772
+  response: 1EC70E80056219460304
+- expected_values:
+    S90_MODULE_CURRENT: 1017
+  response: 1EC70E800562194603F9
+- expected_values:
+    S90_MODULE_CURRENT: 2639
+  response: 1EC70E80056219460A4F

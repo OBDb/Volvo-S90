@@ -1,0 +1,14 @@
+command_id: D016.1EC64E80.22DA89|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_ENG_TQ: -42
+  response: 1EC64E800562DA89125C
+- expected_values:
+    S90_ENG_TQ: 0
+  response: 1EC64E800562DA891400
+- expected_values:
+    S90_ENG_TQ: 51
+  response: 1EC64E800562DA8915FE
+- expected_values:
+    S90_ENG_TQ: 273
+  response: 1EC64E800562DA891EAA

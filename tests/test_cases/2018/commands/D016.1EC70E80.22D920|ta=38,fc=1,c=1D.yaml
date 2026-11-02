@@ -1,0 +1,8 @@
+command_id: D016.1EC70E80.22D920|ta=38,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_CLU_PMP_DUTY: 0
+  response: 1EC70E800462D92000
+- expected_values:
+    S90_CLU_PMP_DUTY: 27
+  response: 1EC70E800462D9201B

@@ -1,0 +1,8 @@
+command_id: D01A.1F402E80.224028|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    S90_BAT_ST_CHG: 80
+  response: 1F402E80056240280320
+- expected_values:
+    S90_BAT_ST_CHG: 88.5
+  response: 1F402E80056240280375
