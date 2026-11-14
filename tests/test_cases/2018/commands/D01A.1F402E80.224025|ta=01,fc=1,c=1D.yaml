@@ -22,5 +22,8 @@ test_cases:
     S90_AVG_STATIC_LOW_RANGE: -19
   response: 1F402E800562402501EC
 - expected_values:
+    S90_AVG_STATIC_LOW_RANGE: -18
+  response: 1F402E800562402501ED
+- expected_values:
     S90_AVG_STATIC_LOW_RANGE: -17
   response: 1F402E800562402501EE
