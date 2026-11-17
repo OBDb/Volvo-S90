@@ -1,8 +1,8 @@
 command_id: D016.1EC60E80.220341|ta=30,fc=1,c=1D
 test_cases:
 - expected_values:
-    S90_BOOST_AIR_T: 10
-  response: 1EC60E800462034150
+    S90_BOOST_AIR_T: 4.375
+  response: 1EC60E800462034147
 - expected_values:
     S90_BOOST_AIR_T: 62.5
   response: 1EC60E8004620341A4
