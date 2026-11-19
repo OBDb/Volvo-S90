@@ -10,5 +10,5 @@ test_cases:
     S90_ENG_TQ: 51
   response: 1EC64E800562DA8915FE
 - expected_values:
-    S90_ENG_TQ: 273
-  response: 1EC64E800562DA891EAA
+    S90_ENG_TQ: 386
+  response: 1EC64E800562DA892314
