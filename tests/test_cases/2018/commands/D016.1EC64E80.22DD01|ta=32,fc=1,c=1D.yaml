@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     S90_ODO: 106240
   response: 1EC64E800662DD01019F00
+- expected_values:
+    S90_ODO: 106531
+  response: 1EC64E800662DD0101A023
